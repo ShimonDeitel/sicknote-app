@@ -1,0 +1,27 @@
+{
+  "identifier": "Sicknote",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "$1.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Reminder alerts for outstanding makeup work",
+          "displayName": "Sicknote Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.sicknote.pro",
+      "referenceName": "Sicknote Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
